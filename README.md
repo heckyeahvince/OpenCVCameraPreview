@@ -1,6 +1,4 @@
-# OpenCV 3.0 Camera Preview Example 
-
-opencvcamerapreviewsample-melvincabatuan created by Classroom for GitHub
+# OpenCV 3.0 Camera Preview Example
 
 This project illustrates how to utilize a 3rd party library, e.x. OpenCV in Android.
 
@@ -119,34 +117,3 @@ E.x.
 
 </manifest>
 ```
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/464e11aa7991992628993a725524a17f
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-
-## Screenshot:
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-melvincabatuan/blob/master/device-2015-11-02-084936.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-melvincabatuan/blob/master/device-2015-11-02-085223.png)
-
-"*There is nothing funny about Halloween. This sarcastic festival reflects, rather, an infernal demand for revenge by children on the adult world.*" - Jean Baudrillard
